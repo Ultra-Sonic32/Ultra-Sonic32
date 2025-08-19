@@ -2,7 +2,7 @@
 
 🎯 Passionate System & Software Engineer | Aspiring Cybersecurity & Cloud Specialist  
 📍 Based in Johannesburg, South Africa  
-🌐 [LinkedIn](https://za.linkedin.com/in/simon-westhof-9822a0246)
+🌐 [LinkedIn](https://za.linkedin.com/in/simon-westhof)
 
 ---
 

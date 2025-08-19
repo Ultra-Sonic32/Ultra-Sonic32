@@ -2,7 +2,11 @@
 
 🎯 Passionate System & Software Engineer | Aspiring Cybersecurity & Cloud Specialist  
 📍 Based in Johannesburg, South Africa  
-🌐 [LinkedIn](https://za.linkedin.com/in/simon-westhof)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white)](https://simon-westhof.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://za.linkedin.com/in/simon-westhof)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/f1aY5LT5fp/)
+[![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:simonwesthof22@gmail.com)
 
 ---
 
@@ -44,18 +48,10 @@ I'm currently:
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=simonwesthof&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=simonwesthof&layout=compact&theme=github_dark)
-
----
-
-## 🔗 Let’s Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://za.linkedin.com/in/simon-westhof-9822a0246)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail)](mailto:simonwesthof22@gmail.com)
+## 📈 GitHub Stats  
+![GitHub Streak](https://streak-stats.demolab.com?user=Ultra-Sonic32&theme=github-dark&hide_border=true)  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ultra-Sonic32&theme=github_dark&no-frame=true&row=1&column=6)  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ultra-Sonic32&theme=github-dark)
 
 ---
 

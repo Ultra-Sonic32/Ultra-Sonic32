@@ -49,8 +49,8 @@ I'm currently:
 ---
 
 ## 📈 GitHub Stats  
-![GitHub Streak](https://streak-stats.demolab.com?user=Ultra-Sonic32&theme=github-dark&hide_border=true)  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ultra-Sonic32&theme=github_dark&no-frame=true&row=1&column=6)  
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ultra-Sonic32&theme=dark&hide_border=true)](https://git.io/streak-stats)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ultra-Sonic32&theme=github-dark)
 
 ---
